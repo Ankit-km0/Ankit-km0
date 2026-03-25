@@ -14,7 +14,11 @@
 
 - 📫 How to reach me **kankit1713@gmail.com**
 
+- - 📫 How to reach me **kankit1713@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ankit-km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-km" height="30" width="40" /></a>
+<a href="https://instagram.com/ankit.kumar028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit.kumar028" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/851126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="851126" height="30" width="40" /></a>
 </p>
