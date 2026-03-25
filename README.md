@@ -11,16 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ankit-km0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-km0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ankit-km0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ankit-km0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🛠️ Tech Stack & Tools
-
-* **[span_10](start_span)Languages:** C++, C, Python, JavaScript[span_10](end_span)
-* **[span_11](start_span)Backend & DB:** Node.js, Express.js, MongoDB[span_11](end_span)
-* **[span_12](start_span)Frontend:** HTML, CSS, Responsive Design, DOM Manipulation[span_12](end_span)
-* **[span_13](start_span)Tools:** Git, GitHub, VS Code[span_13](end_span)
